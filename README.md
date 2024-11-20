@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 🐦 @harshwasthere ✉️ harsh12codes@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I unwind by playing video games, especially csgo/valorant.
+
+![Metrics](https://gist.githubusercontent.com/harshwasthere/3e153d0295a3f10c924e657735f8eb9a/raw/github-metrics.svg)
