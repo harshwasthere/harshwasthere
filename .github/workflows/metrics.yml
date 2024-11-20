@@ -1,7 +1,8 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Run at 12AM IST
+  schedule: [{cron: "30 18 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -10,7 +11,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: production
+      name: GITHUB_README
     permissions:
       contents: write
     steps:
