@@ -18,3 +18,17 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: harshwasthere
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_padding: 0, 0
+          config_timezone: Asia/Calcutta
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 3
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: harshwasthere
