@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌳 I’m frontend developer trying to become frontend engineer.
+- 🌱 I’m currently learning **System design** and [Go](https://go.dev/)
+- 💬 Ask me about Data structures & algorithms, fontend design.
+- 👾 Primarily work on **Next.js** projects and writes **Typescript**, Javascript, C++, and more.
+- 📫 How to reach me: 🐦 @harshwasthere ✉️ harsh12codes@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I unwind by playing video games, especially csgo/valorant.
