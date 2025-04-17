@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Animations.
 - 💬 Ask me about Data structures & algorithms, fontend design.
 - 👾 Primarily work on **Next.js** projects and writes **Typescript**, Javascript, C++, and more.
-- 📫 How to reach me: 🐦 @harshwasthere ✉️ harsh12codes@gmail.com
+- 📫 How to reach me: ✉️ harsh12codes@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I unwind by playing video games, especially CSGO/valorant.
 
